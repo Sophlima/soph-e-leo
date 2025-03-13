@@ -1,5 +1,5 @@
 body {
-    background-color: #91919bf3;
+    background-color: rgb(1, 3, 145);
 }
 
 h1 {
@@ -20,4 +20,12 @@ p {
 
 b {
     color: rgb(1, 17, 110);
+}
+
+main {
+    background-color: rgb(145, 144, 144);
+}
+
+#carro {
+    width: 100%;
 }
