@@ -1,5 +1,7 @@
 header{
-    background-color: cornflowerblue;
+    background-color: rgb(117, 117, 117);
+    text-align: center;
+    padding: 20px 0;
 }
 
 nav li {
@@ -9,8 +11,14 @@ nav li {
 
 nav a {
     text-transform: uppercase;
-    color: black;
+    color: rgb(255, 255, 255);
     font-weight: bold;
     font-size: 22px;
     text-decoration: none;
+}
+
+.caixa {
+    position: relative ;
+    width: 940px;
+    margin: 0 auto;
 }
