@@ -11,7 +11,7 @@ nav li {
 
 nav a {
     text-transform: uppercase;
-    color: rgb(255, 255, 255);
+    color: rgb(88, 8, 8);
     font-weight: bold;
     font-size: 22px;
     text-decoration: none;
@@ -21,4 +21,10 @@ nav a {
     position: relative ;
     width: 940px;
     margin: 0 auto;
+}
+
+nav {
+    position: absolute;
+    top: 110px;
+    right: 0;
 }
