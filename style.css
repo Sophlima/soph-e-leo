@@ -83,12 +83,12 @@ nav a:hover{
 
 footer {
     text-align: center;
-    background-color: rgb(18, 49, 107);
+    background-color:  rgb(18, 49, 107);
     padding: 40px 0;
 }
 
 .copyright {
-    color: aliceblue;
+    color: antiquewhite;
     font-size: 13px;
     margin-top: 15px;
 }
