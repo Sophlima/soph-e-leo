@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(18, 49, 107);
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+b {
+    color: rgb(255, 255, 255);
+}
+
+main {
+    background-color: rgb(154, 192, 241);
+}
+
+#carro {
+    width: 100%;
+}
+
+b2 {
+    color: rgb(0, 0, 0);
+}
+
+b3 {
+    color: rgb(11, 57, 126);
+}
+
+a {
+    color: aliceblue;
+}
+
