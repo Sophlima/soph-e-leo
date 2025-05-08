@@ -70,11 +70,11 @@ nav a:hover{
 }
 
 .produtos li:hover {
-    border-color: rgb(154, 192, 241);
+    border-color: rgb(18, 49, 107);
 }
 
 .produtos li:active {
-    border-color: blue
+    border-color: rgb(255, 255, 255)
 }
 
 .produtosss li:hover h2 {
@@ -119,3 +119,8 @@ form input {
     width: 50%;
     
 }
+
+body {
+    background-color: rgb(154, 192, 241);
+}
+
