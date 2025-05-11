@@ -19,7 +19,7 @@ p {
 }
 
 b {
-    color: rgb(255, 255, 255);
+    color: aliceblue;
 }
 
 main {
@@ -93,4 +93,10 @@ nav {
 
 .logo.jpg {
     width: 250px;
+}
+
+.logo-principal {
+    position: relative;
+    left: -150px;
+    width: 240px;
 }
