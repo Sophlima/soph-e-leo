@@ -70,14 +70,14 @@ nav a:hover{
 }
 
 .produtos li:hover {
-    border-color: rgb(18, 49, 107);
+    border-color: rgb(0, 89, 255);
 }
 
 .produtos li:active {
     border-color: rgb(255, 255, 255)
 }
 
-.produtosss li:hover h2 {
+.produtos li:hover h2 {
     font-size: 34px;
 }
 
